@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align=""> <img src="https://komarev.com/ghpvc/?username=ogozcelik" alt="ogozcelik" /> </p> <br/>
-<a href="ogozcelik@gmail.com"> <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /> </a>
+<a href="https://mail.google.com/mail/ogozcelik@gmail.com"> <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /> </a>
 <a href="https://www.linkedin.com/in/ogozcelik"> <img align="left" alt="LinkdeIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" /> </a> <br />
 🔭 I’m currently working on Named Entity Reconginiton, Misinformation and several NLP tasks
 
