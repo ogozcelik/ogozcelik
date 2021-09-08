@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align=""> <img src="https://komarev.com/ghpvc/?username=ogozcelik" alt="ogozcelik" /> </p> <br/>
-<a href="ogozcelik@gmail.com"> <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
+<a href="ogozcelik@gmail.com"> <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /> </a>
 <a href="https://www.linkedin.com/in/ogozcelik"> <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <br />
 <!--
 **ogozcelik/ogozcelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
