@@ -2,6 +2,8 @@
 <p align=""> <img src="https://komarev.com/ghpvc/?username=ogozcelik" alt="ogozcelik" /> </p> <br/>
 <a href="ogozcelik@gmail.com"> <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /> </a>
 <a href="https://www.linkedin.com/in/ogozcelik"> <img align="left" alt="LinkdeIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" /> </a> <br />
+🔭 I’m currently working on Named Entity Reconginiton, Misinformation and several NLP tasks
+
 <!--
 **ogozcelik/ogozcelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Named Entity Reconginiton, Misinformation and several NLP tasks
