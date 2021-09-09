@@ -2,7 +2,7 @@
 <p align=""> <img src="https://komarev.com/ghpvc/?username=ogozcelik" alt="ogozcelik" /> </p> <br/>
 <a href="mailto: ogozcelik@gmail.com"> <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /> </a>
 <a href="https://www.linkedin.com/in/ogozcelik"> <img align="left" alt="LinkdeIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" /> </a> <br/><br/>
-🔭 I’m currently working on Named Entity Recognition, Misinformation and several NLP tasks.
+🔭 I’m currently working on Named Entity Recognition, Misinformation and several NLP tasks.<br/>
 🌱 I’m currently sharing my college projects and homeworks written on several programming languages.
 
 <!--
